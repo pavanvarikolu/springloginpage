@@ -12,7 +12,7 @@
 	<artifactId>LoginPage</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>LoginPage</name>
-	<packaging>war</packaging>
+	
 	<description>login project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>
